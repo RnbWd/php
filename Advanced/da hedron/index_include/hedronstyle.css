@@ -1,0 +1,53 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+body {
+  font-family: 'Indie Flower', cursive;
+  background-color: beige;
+  
+}
+img {
+  height: 100px;
+  width: 150px;
+  opacity: 0.6;
+  position: relative;
+  z-index: 0;
+  float:left;
+}
+#heading {
+  float: left;
+  margin-left: 10px;
+}
+#heading p {
+  width: 400px;
+}
+#new_message {
+  clear: both;
+  float: left;
+  margin: 10px 5%;
+}
+#messages {
+  clear: both;
+  float: left;
+  margin: 10px 10%;
+}
+.message_content {
+  background-color: lightblue;
+  text-align: center;
+  font-size: 16px;
+  padding: 20px;
+}
+.name {
+  color: darkblue;
+}
+.smaller {
+  font-size: 12px;
+}
+.message {
+  margin-bottom: 20px;
+}
+.comment_content {
+  color: maroon;
+  font-size: 16px;
+}

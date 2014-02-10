@@ -1,0 +1,13 @@
+table {
+   border-collapse: collapse;
+}
+.a0 {
+  background-color: beige;
+}
+.a1 {
+  background-color: darkolivegreen;
+}
+td {
+  width: 30px;
+  height: 30px;
+}

@@ -1,0 +1,10 @@
+#top_wrapper{
+  margin-bottom: 20px;
+}
+#exam_table{
+  border-top: 1px solid black;
+}
+#message
+{
+  color: red;
+}
